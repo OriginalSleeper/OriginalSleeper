@@ -1,8 +1,1 @@
-I'm sleeping, can't you see?!
-Finally, I try because with cygales, I don't call it simplicity...
-
- - [x] Sleep 
- - [x] Eat 
- - [x] Watch 
- - [x] Play 
- - [ ] Forever
+I love sleep, eat, imagine, develop, create, and... repeat all of that.
